@@ -21,11 +21,11 @@ export default defineConfig({
   schema: {
     types: schemaTypes,
   },
-  studio: {
-    components: {
-      logo: Logo,
-      navbar: StudioNavbar,
-    },
-  },
+  // studio: {
+  //   components: {
+  //     logo: Logo,
+  //     navbar: StudioNavbar,
+  //   },
+  // },
   // theme: myTheme,
 });
